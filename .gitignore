@@ -1,0 +1,10 @@
+# Ignore heavy library folders
+backend/node_modules/
+frontend/node_modules/
+
+# Ignore local environment secrets
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
